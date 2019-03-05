@@ -1,0 +1,22 @@
+{
+  "id": 0,
+  "name": "playSolutionRelation",
+  "playSolutionSource": "play_solution.json",
+  "relations": [
+    {
+      "taskId": 1,
+      "scheduleConstraints": [
+        {
+          "constraintId": 0,
+          "constraintSource": "schedule_constraint.json",
+          "playlists": [
+            {
+              "playlistId": 0,
+              "playlistSource": "playlist0.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

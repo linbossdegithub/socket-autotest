@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "source": {
+    "type": 1,
+    "platform": 2
+  },
+  "uuid": "7afc5d37-e081-48f1-83f0-4a4d24736877",
+  "items": [
+    {
+      "id": 1,
+      "name": "local_net_program_task",
+      "layout": {
+        "x": "0%",
+        "y": "0%",
+        "width": "100%",
+        "height": "100%"
+      },
+      "zOrder": 1
+    }
+  ],
+  "target": [
+    -1
+  ],
+  "name": "play_solution",
+  "picktype": "DEFAULT",
+  "itemCount": 1,
+  "id": 0
+}
