@@ -45,7 +45,7 @@ if __name__ == "__main__":
     if args.email:
         setConf("constant", "email", args.email)
     else:
-        setConf("constant", "email", 'novatest@126.com')
+        setConf("constant", "email", '18294447754@163.com')
 
     # flag = searchT()
     # if not flag:
